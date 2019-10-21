@@ -2,7 +2,7 @@
 public class Variables {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World, I am ready!!!");
+		System.out.println(">>>Interger examples<<<");
 		
 		int myNumber=27;
 		short myShort=847;
